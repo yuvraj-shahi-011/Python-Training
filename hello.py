@@ -15,3 +15,7 @@ for i in list1:
     sum += i
     average=sum / len(list1)
 print("average of the list:", average)
+list1.append(6)
+
+
+
