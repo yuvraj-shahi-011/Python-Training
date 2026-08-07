@@ -16,6 +16,8 @@ for i in list1:
     average=sum / len(list1)
 print("average of the list:", average)
 list1.append(6)
-
-
+list2=['mango', 'apple', 'banana', 'orange']
+list2.insert(1, 'grapes')
+list2.append('kiwi')
+list2.pop(2)
 
